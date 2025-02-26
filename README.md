@@ -281,4 +281,4 @@ ___
 
 [Skillbox Media](https://skillbox.ru/media/) без подсказки
 
-[Skillbox Media](https://skillbox.ru/media/ "Всплывающая подсказка") с подсказкой
+[Skillbox Media](https://skillbox.ru/media/ "Круто, не правда ли?)") с подсказкой
