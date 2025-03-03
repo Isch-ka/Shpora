@@ -26,9 +26,9 @@ https://git-scm.com/downloads
 При первом использовании Git необходимо представиться.  Для 
 этого нужно ввести в терминале 2 команды:
 
-git config --global user.name «Ваше имя английскими буквами»
+```git config --global user.name «Ваше имя английскими буквами»```
 
-git config --global user.email ваша почта@example.com
+```git config --global user.email ваша почта@example.com```
 
 ## Подготовка репозитория
 * Создать папку в необходимом репозитории компьютера
