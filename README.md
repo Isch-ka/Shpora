@@ -62,6 +62,7 @@ https://git-scm.com/downloads
 * ```git log --graph``` - вид с графическим отображением веток
 
 ![Wirrwarr](picture/f.1.png)
+Чтобы отсюда выйти, нажмите Q
 
 ### Перейти к сохранению
 * ```git checkout```
