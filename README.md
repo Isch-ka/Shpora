@@ -30,7 +30,7 @@ https://git-scm.com/downloads
 
 ```git config --global user.email ваша почта@example.com```
 
-![G](picture/Снимок экрана (124).png)
+![G](picture/hz.png)
 
 ## Подготовка репозитория
 * Создать папку в необходимом репозитории компьютера
