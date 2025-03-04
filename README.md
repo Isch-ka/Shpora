@@ -30,8 +30,6 @@ https://git-scm.com/downloads
 
 ```git config --global user.email ваша почта@example.com```
 
-![упс](-/picture/Снимок экрана(124).png)
-
 ## Подготовка репозитория
 * Создать папку в необходимом репозитории компьютера
 * Перейти с помощью проводника в **Visual Studio Code** в созданную папку
