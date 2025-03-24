@@ -122,6 +122,16 @@ https://git-scm.com/downloads
 
 ![Wirrwarr](picture/cd.png)
 
+Команды для создания нового репозитория в командной строке:
+
+* ```echo "# test" >> README.md```
+* ```git init```
+* ```git add README.md```
+* ```git commit -m "first commit"```
+* ```git branch -M main```
+* ```git remote add origin https://github.com/Isch-ka/test.git```
+* ```git push -u origin main```
+
 Команды, которые переносят отредактированную локально (в VS Code) информацию на Github:
 
 ![Wirrwarr](picture/push.png)
